@@ -27,9 +27,9 @@ author:
   pronouns         : "she/her"  
   bio              : "Biogeographer & Conservation Biologist"
   location         : "New York, USA"
- # employer         : "Visiting Scientist @ AMNH"
-#  uri              : https://www.amnh.org/research/staff-directory/bethany-johnson
-  email            : "bjohnson1@amnh.org", "bjohnso005@citymail.cuny.edu" 
+  employer         : "Visiting Scientist @ AMNH"
+  uri              : https://www.amnh.org/research/staff-directory/bethany-johnson
+  email            : "bjohnson1@amnh.org" 
 
   # Academic websites
 #  academia         : https://www.andersonlab.ccny.cuny.edu/graduate-students-post-docs
