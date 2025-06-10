@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 Website in progress...
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Timmie Willie, the country mouse](/images/country_mouse.png)
