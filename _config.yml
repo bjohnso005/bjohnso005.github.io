@@ -26,13 +26,13 @@ author:
   name             : "Bethany A. Johnson"
   pronouns         : "she/her"  
   bio              : "Biogeographer & Conservation Biologist"
-  location         : "NY"
-  employer         : "Visiting Scientist @ AMNH"
-  uri              : https://www.amnh.org/research/staff-directory/bethany-johnson
-  email            : "bjohnson1@amnh.org" 
+  location         : "New York, USA"
+ # employer         : "Visiting Scientist @ AMNH"
+#  uri              : https://www.amnh.org/research/staff-directory/bethany-johnson
+  email            : "bjohnson1@amnh.org", "bjohnso005@citymail.cuny.edu" 
 
   # Academic websites
-  academia         : https://www.andersonlab.ccny.cuny.edu/graduate-students-post-docs
+#  academia         : https://www.andersonlab.ccny.cuny.edu/graduate-students-post-docs
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=j-OJLlMAAAAJ"
   impactstory      : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+#  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
