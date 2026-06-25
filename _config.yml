@@ -28,7 +28,7 @@ author:
   bio              : "Biogeographer & Conservation Biologist"
   location         : "New York, USA"
   employer         : "Visiting Scientist @ AMNH"
-  uri              : https://www.amnh.org/research/staff-directory/bethany-johnson
+  uri              : # https://www.amnh.org/research/staff-directory/bethany-johnson; https://sva.edu/faculty/bethany-a-johnson
   email            : "bjohnson1@amnh.org" 
 
   # Academic websites
@@ -143,9 +143,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : iNaturalist # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://www.inaturalist.org/users/profbethanyjohnson
 
 
 # Analytics
