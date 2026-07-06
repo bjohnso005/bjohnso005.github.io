@@ -21,7 +21,7 @@ main:
   #  url: /presentations/ 
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/teaching.md   
     
   # - title: "Portfolio"
   #   url: /portfolio/
